@@ -1,2 +1,4 @@
 # images
-Gothic Picz
+
+jpeg
+gp
